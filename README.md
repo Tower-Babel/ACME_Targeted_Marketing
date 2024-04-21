@@ -1,4 +1,4 @@
-# ACME Inc. Data Analysis Solution
+# Transforming Data into Targeted Marketing: A Cloud solution
 
 ## Abstract
 ACME Inc., as a company, relies on mass-marketing strategies by leveraging its customer database for targeted campaigns. We present a Cloud-based Machine-Learning solution given an existing customer dataset that clusters and identifies exiting customers to cross-sell to. The infrastructure allows for remote analysis, scalability, and customizable trained models that can be used in a production setting.
